@@ -1,0 +1,129 @@
+/* === GENERAL === */
+
+body{
+	padding-top: 50px;
+	background: url('../img/texture.png') top left repeat;
+}
+
+.wrap{
+	padding-top: 50px;
+	padding-bottom:50px;
+}
+
+.header-section{
+	text-align: center;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;	
+}
+
+h1{
+	font-family: 'pacifico', cursive;
+}
+
+h2{
+	font-family: 'graduate', cursive;
+}
+
+/* === TITLE & ENROLL === */
+
+.jumbotron{
+	background: url('../img/news.jpg') 50% 0 no-repeat fixed;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	text-align: center;
+	color: black;
+	}
+
+/*  === WHAT WILL YOU LEARN === */
+
+#what-learn {
+	text-align: center;
+}
+
+/* === COURSE TARGET === */
+
+#course-target{
+	background-color: #BF3E11;
+	color: white;
+}
+
+/* === COURSE FEATURES === */
+
+#course-features{
+	background-color: white;
+	text-align: center;
+}
+
+#course-features i{
+	margin-top: 20px;
+}
+
+#instructor .left-side{
+	text-align: center;
+}
+
+.badge.social{
+	background: #95A5A6;
+	font-size: 20px;
+	height: 35px;
+	width: 35px;
+	text-align: center;
+	line-height: 35px;
+	margin-top: 5px;
+	padding: 0;
+	-webkit-border-radius: 35px;
+	-moz-border-radius: 35px;
+	border-radius: 35px;
+	color: white;
+}
+
+.badge.social.twitter:hover{
+	background: #55ACEE;
+}
+
+.badge.social.linkedin:hover{
+	background: #4875b4;
+}
+
+.badge.social.blog:hover{
+	background: #26c281;
+}
+.badge.social.ig:hover{
+	background: #cd486b;
+}
+
+/* === FOOTER === */
+
+#footer{
+	padding: 20px;
+	background: #22313f;
+	color: white;
+}
+
+#footer a{
+	color: #f5ab35;
+}
+
+#footer a:hover{
+	color: #f9690e;
+}
+
+#main-navigation {
+  background-color: #fff;
+  color: #FE9A2E }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

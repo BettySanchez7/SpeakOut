@@ -1,0 +1,204 @@
+/* === GENERAL === */
+
+body{
+	padding-top: 50px;
+	background-color: #fff;
+}
+
+.wrap{
+	padding-top: 50px;
+	padding-bottom:50px;
+}
+
+.header-section{
+	text-align: center;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;	
+}
+
+h1{
+	font-family: 'IM Fell French Canon SC', serif;
+	font-size: 50px;
+}
+
+h2{
+	font-family: 'IM Fell French Canon', serif;
+	text-align: center;
+	font-size: 50px;
+}
+
+h4{
+	font-size: 30px;
+}
+h4{
+	font-size: 50px;
+}
+h5{
+	font-size: 20px;
+}
+
+/* === TITLE & ENROLL === */
+
+#what-learn{
+	background-color: #FE9A2E;
+	color: white;
+}
+
+#course-features{
+	background-color: white;
+	text-align: center;
+	font-size:40px ;
+}
+
+#course-features i{
+	margin-top: 20px;
+}
+
+#world .jumbotron{
+	background: url('../img/world.svg') 50% 0 no-repeat fixed;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	text-align: center;
+	color: black;
+	}
+
+
+#idioms .frances{
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	text-align: center;
+	color: black;
+}
+
+#idioms .aleman{
+	
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	text-align: center;
+	color: black;
+}
+#idioms .aleman{
+	font-family: 'ancientmedium';
+	font-size: 20px;
+}
+
+#idioms .japones{
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	text-align: center;
+	color: black;
+}
+#idioms .japones{
+	font-family: 'karatemedium';
+	font-size: 20px;
+}
+
+#idioms .chino{
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	text-align: center;
+	color: black;
+}
+#idioms .chino{
+	font-family: 'chinese_takeawayregular';
+	font-size: 20px;
+}
+#idioms .noruego{
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	text-align: center;
+	color: black;
+}
+#idioms .noruego{
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+}
+#idioms .italiano{
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	text-align: center;
+	color: black;
+}
+#idioms .italiano{
+	font-family: 'fragment_coreroman';
+	font-size: 20px;
+}
+.badge.social{
+	background: #95A5A6;
+	font-size: 20px;
+	height: 35px;
+	width: 35px;
+	text-align: center;
+	line-height: 35px;
+	margin-top: 5px;
+	padding: 0;
+	-webkit-border-radius: 35px;
+	-moz-border-radius: 35px;
+	border-radius: 35px;
+	color: white;
+}
+
+.badge.social.twitter:hover{
+	background: #55ACEE;
+}
+.badge.social.ig:hover{
+	background: #cd486b;
+}
+
+.badge.social.linkedin{
+	background: #4875b4;
+}
+
+.badge.social.blog:hover{
+	background: #26c281;
+}
+
+
+
+/* === FOOTER === */
+
+#footer{
+	padding: 20px;
+	background: #22313f;
+	color: white;
+}
+
+#top{
+	background-color: #fff;
+}
+
+#footer a{
+	color: #f5ab35;
+}
+
+#footer a{
+	color: #f9690e;
+}
+
+#main-navigation {
+  background-color: #fff;
+  color: #FE9A2E }
+
+#a4 {
+
+
+	width:100%; height: 100%
+}
+
+#im4 {height: 100%;width:100%}
+
+.glyphicon {
+	font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
