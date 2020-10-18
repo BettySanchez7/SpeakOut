@@ -1,4 +1,4 @@
-# SPEAKOUT
+# SpeakOut
 Proyecto desarrollado para participación en MxHack V
 PARTICIPANTES:
 - Zuriel Uzai
