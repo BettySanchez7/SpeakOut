@@ -1,9 +1,9 @@
 # SPEAKOUT
 Proyecto desarrollado para participación en MxHack V
 PARTICIPANTES:
--Zuriel Uzai
--Max Schouten
--Beatriz Sánchez
+- Zuriel Uzai
+- Max Schouten
+- Beatriz Sánchez
 
 "LOS SORDOS PUEDEN HACER CUALQUIER COSA QUE LOS OYENTES TAMBIÉN PUEDEN HACER. EXCEPTO OIR. "
 -DR. KING JORDAN
